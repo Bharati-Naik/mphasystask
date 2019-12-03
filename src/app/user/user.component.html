@@ -1,0 +1,31 @@
+<p></p><br>
+<div class="container">
+<table class="table table-bordered">
+<thead>
+
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Account</th>
+        <th>Date</th>
+        <th>Discription</th>
+    </tr>
+
+</thead>
+<tbody>
+
+    <tr *ngFor='let e of userdetails'>
+        <td>{{e.firstName}}</td>
+        <td>{{e.lastName}}</td>
+        <td>{{e.email}}</td>
+        <td>{{e.accountBalance | number:'4.2'}}</td>
+        <td>{{todayDate | date:'medium'}}</td>
+        <td>{{e.discription | discpipe }}</td>
+    </tr>
+
+</tbody>
+</table>
+</div>
+
+<!-- <p>{{todayDate | date:'medium'}}</p> -->

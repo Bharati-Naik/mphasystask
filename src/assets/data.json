@@ -1,0 +1,9 @@
+[
+    {"firstName":"bharati","lastName":"naik","email":"bharatijn25@gmail.com","accountBalance":"10000","createdDate":"29-10-2019","discription":"bharati naik"},
+    {"firstName":"kiran","lastName":"naik","email":"kiran22@gmail.com","accountBalance":"10000","createdDate":" ","discription":"kiran kumar"},
+    {"firstName":"nayana","lastName":"naik","email":"nayanajn25@gmail.com","accountBalance":"10000","createdDate":" ","discription":"nayana naik"},
+    {"firstName":"maruti","lastName":"naik","email":"marutijn25@gmail.com","accountBalance":"10000","createdDate":" ","discription":"maruti naik"},
+    {"firstName":"manya","lastName":"naik","email":"manya25@gmail.com","accountBalance":"10000","createdDate":" ","discription":"manya naik"}
+]
+
+
